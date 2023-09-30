@@ -1,5 +1,5 @@
-                            '''Phase.2 - Task1'''
-                           '''TYPING SPEED TEST'''
+ '''Phase.2 - Task1'''
+'''TYPING SPEED TEST'''
 
                            
 from tkinter import *
