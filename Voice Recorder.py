@@ -1,5 +1,5 @@
-                        '''Phase.2 - Task2'''
-                        '''VOICE RECORDER'''
+'''Phase.2 - Task2'''
+'''VOICE RECORDER'''
 
         
 import sounddevice as sd
